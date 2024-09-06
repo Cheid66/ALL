@@ -1,3 +1,4 @@
+
 phone_book = {'Steve':89506558558, 'Elvira':89527259601} #ключ + значение через ":" = 1 объект
 print(phone_book)
 print(phone_book['Steve'])
